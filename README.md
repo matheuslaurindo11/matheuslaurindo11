@@ -26,12 +26,11 @@
 
 ### 📌 Projetos & Estudos em Destaque
 
-- 🔹 **[Maratona Java DevDojo](https://github.com/matheuslaurindo11/maratona-java-devdojo):** Repositório de estudos práticos cobrindo desde lógica de programação, Orientação a Objetos, Coleções, Exceções até recursos avançados do Java.
+- 🔹 **[Maratona Java DevDojo](https://github.com/matheuslaurindo11/NOME_DO_REPOS_MARATONA):** Repositório de estudos práticos cobrindo desde lógica de programação, Orientação a Objetos, Coleções, Exceções até recursos avançados do Java.
 - 🔹 **[Faculdade](https://github.com/matheuslaurindo11/Faculdade-):** Repositório focado nos projetos e exercícios acadêmicos desenvolvidos no curso de ADS.
 
 ---
 
-### 📬 Contato & Redes
+### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laurindostilinski@gmail.com)
