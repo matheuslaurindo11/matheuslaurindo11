@@ -26,8 +26,7 @@
 
 ### 📌 Projetos & Estudos em Destaque
 
-- 🔹 **[Maratona Java DevDojo](https://github.com/matheuslaurindo11/NOME_DO_REPOS_MARATONA):** Repositório de estudos práticos cobrindo desde lógica de programação, Orientação a Objetos, Coleções, Exceções até recursos avançados do Java.
-- 🔹 **[Faculdade](https://github.com/matheuslaurindo11/Faculdade-):** Repositório focado nos projetos e exercícios acadêmicos desenvolvidos no curso de ADS.
+- 🔹 **[Maratona Java DevDojo](https://github.com/matheuslaurindo11/Faculdade-):** Repositório de estudos práticos e códigos desenvolvidos durante a Maratona Java, cobrindo Orientação a Objetos, estruturas de dados, tratamento de exceções e boas práticas.
 
 ---
 
